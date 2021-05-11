@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "https://github.com/tdenzl/MarvelNetwork",
+    "text": "Tim Denzler"
+  },
+  "text": {
+    "more": "A network linking characters from the Marvel universe that appeared together in the comics. The node size corresponds to the weighted degree and the colors to each a node\u0027s corresponding modularity class.\nFor more information visit the GitHub Repository:\nhttps://github.com/tdenzl/MarvelNetwork",
+    "intro": "A network linking characters from the Marvel universe that appeared together in the comics.",
+    "title": "Marvel Universe Co-Occurence Network"
+  },
+  "legend": {
+    "edgeLabel": "Co-Occurrence",
+    "colorLabel": "Modularity",
+    "nodeLabel": "Character"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
