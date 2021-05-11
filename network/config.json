@@ -10,7 +10,7 @@
   "text": {
     "more": "A network linking characters from the Marvel universe that appeared together in the comics. The node size corresponds to the weighted degree and the colors to each a node\u0027s corresponding modularity class.\nFor more information visit the GitHub Repository:\nhttps://github.com/tdenzl/MarvelNetwork",
     "intro": "A network linking characters from the Marvel universe that appeared together in the comics.",
-    "title": "Marvel Universe Co-Occurence Network"
+    "title": "Marvel Universe Co-Occurrence Network"
   },
   "legend": {
     "edgeLabel": "Co-Occurrence",
