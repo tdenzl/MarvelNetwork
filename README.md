@@ -1,9 +1,4 @@
 # MarvelNetwork
-A network graph of Marvel characters based on co-occurrence in comics.
-
-You can find the network
-
-# MarvelNetwork
 
 This repository conatains a script that allows for converting a CSV file to gexf, which can then be exported as SigmaJS network and hosted using GitHub pages.
 
