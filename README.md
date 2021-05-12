@@ -10,7 +10,7 @@ The data was downloaded from [Kaggle](https://www.kaggle.com/csanhueza/the-marve
 Click here to get to the deployed [Marvel Network Graph](https://tdenzl.github.io/MarvelNetwork/network/#)
 
 ## Medium Article
-Make sure to also check out the accompanying [Medium article]()
+Make sure to also check out the accompanying [Medium article](https://tim-denzler.medium.com/from-csv-to-github-pages-in-5-steps-publishing-an-interactive-social-network-of-the-marvel-7b8374bf44fb)
 
 ## Current Data Scope
 * :superhero_man: :superhero_woman: 6,426 Characters
